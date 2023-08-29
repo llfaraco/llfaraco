@@ -3,7 +3,7 @@
 
 - 🔭 PROJETOS EM ANDAMENTO 
 
-- 🌱 Atualmente estou em processo de aprendizado em **Python, SQL & Power BI**
+- 🌱 Atualmente estou em processo de aprendizado em **Python, SQL & Power BI** (porém, já utilizo Power BI e análise de dados há alguns anos)
 
 - 💬 Me pergunte sobre **Power BI, Excel, Python e SQL**
 
