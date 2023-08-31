@@ -1,4 +1,4 @@
-<h1 align="center">Opa👋, Eu sou o Lucas R Faraco</h1>
+<h1 align="center">Opa👋, Eu sou o Lucas!
 <h3 align="center">Sou fissurado por análise de dados/ciência de dados</h3>
 
 - 🔭 PROJETOS EM ANDAMENTO 
