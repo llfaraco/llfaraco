@@ -3,7 +3,7 @@
 
 - 🔭 PROJETOS EM ANDAMENTO 
 
-- 🌱 Atualmente estou cursando Ciência de Dados e em processo de aprendizado em **Python, SQL & Power BI** (porém, já utilizo Power BI e análise de dados há alguns anos)
+- 🌱 Atualmente estou cursando Ciência de Dados pela Universidade Cruzeiro do Sul (previsão de formação em Dez 2024) e Dados pela Escola DNC. Estou em processo de aprendizado em **Python, SQL & Power BI** (porém, já utilizo Power BI e análise de dados há alguns anos)
 
 - 💬 Me pergunte sobre **Power BI, Excel, Python e SQL**
 
