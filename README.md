@@ -1,86 +1,66 @@
-# 👋 Opa, eu sou o Lucas Faraco!  
-### Analista de Dados | BI | Power BI | SQL | Python
+# 👋 Olá, eu sou o Lucas Faraco  
+### **Analista de Dados | BI | Power BI | SQL | Marketing, Vendas, Trade e Operações**
 
-Sou apaixonado por transformar dados em decisões estratégicas. Atuo com Business Intelligence, modelagem de dados, criação de dashboards e análises para apoiar áreas de negócio.  
-Atualmente, estou fortalecendo minha base técnica em Python, SQL, PySpark e fundamentos de arquitetura de dados.
+Transformo dados em decisões estratégicas. Tenho mais de 7 anos aplicando análises, KPIs e dashboards em contextos reais de Marketing, Vendas, Logística e Trade, sempre com foco em impacto, clareza e tomada de decisão.
 
----
-
-## 🇧🇷 Sobre mim
-- 🎓 Graduando em **Ciência de Dados** (2023–2025)  
-- 📊 Experiência com **Power BI, modelagem de dados, KPIs e análises de negócio**  
-- 🐍 Em evolução contínua em **Python, SQL, PySpark e pipelines de dados**  
-- 💼 Atuação prévia em **Comercial, Marketing, Logística e Trade**, usando dados para decisões  
-- 💬 Me procure sobre **Power BI, BI, SQL, Python e análises estratégicas**  
+Meu diferencial é unir **visão de negócio + capacidade analítica**, conectando dados a resultados de forma objetiva e orientada a valor.
 
 ---
 
-## 🇧🇷 Projetos que você vai encontrar aqui
-- **BI End-to-End (SQL + Power BI)**  
-- **Análises Exploratórias com Python**  
-- **Pipelines com PySpark (local)**  
-- **Simulação de arquitetura Lakehouse com Delta Tables**  
-- **Casos de negócio orientados a dados**
+## 🔍 O que você encontra neste GitHub
+
+✅ Projetos end-to-end (SQL → Python → Power BI)  
+✅ Dashboards com storytelling e KPIs de negócio  
+✅ Análises exploratórias e modelagem de dados  
+✅ Projetos aplicados a Marketing, Vendas e Operações  
+✅ Estudos práticos com PySpark e arquitetura de dados  
+✅ Documentação clara, organizada e orientada a impacto  
 
 ---
 
-## 🇧🇷 Como me encontrar
-📧 E-mail: **lucas.rfaraco@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/lucasfararco/**  
+## 🧠 Stack Técnica
+
+### **Uso no dia a dia**
+- **Power BI** (modelagem, DAX, ETL no Power Query)  
+- **SQL** (joins, CTEs, window functions — em evolução contínua)  
+- **Python** (pandas, matplotlib, seaborn)  
+- **Modelagem de Dados & KPIs**  
+- **Storytelling com Dados**
+
+### **Desenvolvendo na prática**
+- **PySpark** (pipelines locais e manipulação de grandes volumes)  
+- **Git/GitHub** (versionamento e organização de portfólio)  
+- **MySQL / DuckDB** (bancos relacionais)  
+- **Arquitetura de Dados** (Lakehouse, Delta Tables)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 📌 Projetos em Destaque
 
-**Linguagens & Banco de Dados:**  
-SQL • Python • MySQL • SQLite / DuckDB  
+### 🔹 **Funil de Vendas End-to-End (SQL + Power BI)**  
+Modelagem, tratamento e visualização de dados comerciais, com KPIs de conversão, ciclo e forecast.
 
-**Ferramentas & Skills:**  
-Power BI • Modelagem de Dados • DAX • Excel • Git/GitHub • PySpark (aprendizado) • Delta Lake (fundamentos)
+### 🔹 **Churn Analysis com Python**  
+EDA, segmentação e identificação de padrões de risco com pandas e visualizações.
 
----
+### 🔹 **Dashboard Logístico (KPIs de Operações)**  
+Fill rate, ruptura, nível de serviço e análise de gargalos operacionais.
 
----
+### 🔹 **Pipeline PySpark + Delta Tables (Simulação Local)**  
+Ingestão, transformação e escrita estruturada em formato Delta.
 
-# 🇺🇸 Hello, I’m Lucas Faraco!  
-### Data Analyst | BI | Power BI | SQL | Python
-
-I’m passionate about transforming data into strategic insights. I work with Business Intelligence, data modeling, dashboard development and analytical support for business teams.  
-Currently, I’m strengthening my technical foundation in Python, SQL, PySpark and modern data architecture concepts.
-
----
-
-## 🇺🇸 About Me
-- 🎓 Data Science student (2023–2025)  
-- 📊 Solid experience with **Power BI, KPI modeling and business analytics**  
-- 🐍 Developing technical skills in **Python, SQL, PySpark, and data pipelines**  
-- 💼 Background working with **Commercial, Marketing, Logistics and Trade teams**  
-- 💬 Ask me about **Power BI, BI, SQL, Python and business insights**
+### 🔹 **Marketing Analytics Case**  
+Análise de performance de campanhas, comportamento e ROI.
 
 ---
 
-## 🇺🇸 Projects You’ll Find Here
-- **BI End-to-End (SQL + Power BI)**  
-- **Python Exploratory Data Analysis**  
-- **PySpark Pipelines (local simulation)**  
-- **Mini Lakehouse Architecture with Delta Tables**  
-- **Business-focused analytical case studies**
+## 📫 Como me encontrar
+
+📧 **lucas.rfaraco@gmail.com**  
+🔗 **linkedin.com/in/lucasfararco**  
 
 ---
 
-## 🇺🇸 Contact
-📧 E-mail: **lucas.rfaraco@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/lucasfararco/**  
+## 🚀 Sobre mim
 
----
-
-## 🛠️ Tools & Technologies
-
-**Languages & Databases:**  
-SQL • Python • MySQL • SQLite / DuckDB  
-
-**Tools & Skills:**  
-Power BI • Data Modeling • DAX • Excel • Git/GitHub • PySpark (learning) • Delta Lake (basics)
-
----
-
+Sou graduando em Ciência de Dados e venho consolidando minha transição para a área técnica com projetos práticos, estudos estruturados e aplicação real de dados ao longo da minha carreira. Busco atuar como **Analista de Dados / BI**, contribuindo com análises, modelagem e dashboards que apoiem áreas de Marketing, Comercial e Operações a tomarem decisões mais rápidas, precisas e orientadas por dados.
