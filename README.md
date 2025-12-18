@@ -12,8 +12,7 @@ Meu diferencial é unir **visão de negócio + capacidade analítica**, conectan
 ✅ Projetos end-to-end (SQL → Python → Power BI)  
 ✅ Dashboards com storytelling e KPIs de negócio  
 ✅ Análises exploratórias e modelagem de dados  
-✅ Projetos aplicados a Marketing, Vendas e Operações  
-✅ Estudos práticos com PySpark e arquitetura de dados  
+✅ Projetos aplicados a Marketing, Vendas e Operações   
 ✅ Documentação clara, organizada e orientada a impacto  
 
 ---
@@ -27,30 +26,9 @@ Meu diferencial é unir **visão de negócio + capacidade analítica**, conectan
 - **Modelagem de Dados & KPIs**  
 - **Storytelling com Dados**
 
-### **Desenvolvendo na prática**
-- **PySpark** (pipelines locais e manipulação de grandes volumes)  
+### **Desenvolvendo na prática** 
 - **Git/GitHub** (versionamento e organização de portfólio)  
-- **MySQL / DuckDB** (bancos relacionais)  
 - **Arquitetura de Dados** (Lakehouse, Delta Tables)
-
----
-
-## 📌 Projetos em Destaque
-
-### 🔹 **Funil de Vendas End-to-End (SQL + Power BI)**  
-Modelagem, tratamento e visualização de dados comerciais, com KPIs de conversão, ciclo e forecast.
-
-### 🔹 **Churn Analysis com Python**  
-EDA, segmentação e identificação de padrões de risco com pandas e visualizações.
-
-### 🔹 **Dashboard Logístico (KPIs de Operações)**  
-Fill rate, ruptura, nível de serviço e análise de gargalos operacionais.
-
-### 🔹 **Pipeline PySpark + Delta Tables (Simulação Local)**  
-Ingestão, transformação e escrita estruturada em formato Delta.
-
-### 🔹 **Marketing Analytics Case**  
-Análise de performance de campanhas, comportamento e ROI.
 
 ---
 
