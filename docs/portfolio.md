@@ -8,7 +8,7 @@ O portfólio reúne entregas profissionais descritas sem material interno, um pr
 
 | Categoria | Evidência | Limite |
 | --- | --- | --- |
-| [Experiência profissional](experiencia-profissional.md) | Contexto, entregas e responsabilidades informados pelo autor | Sem bases ou código de empresas |
+| [Casos de aplicação](experiencia-profissional.md) | Contexto, entregas e responsabilidades informados pelo autor | Sem bases ou código de empresas |
 | [Yardline](yardline.md) | Produto público e estudo de caso de produto | Código privado; sem métricas de impacto declaradas |
 | Projetos públicos de estudo | Arquivos, scripts, consultas e notebooks versionados | Simulações e exercícios não equivalem a experiência em produção |
 
