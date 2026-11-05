@@ -1,63 +1,47 @@
-# Experiência profissional | Dados aplicados ao negócio
+# Problemas de negócio | Casos de aplicação
 
 [Voltar ao perfil](../README.md)
 
-Este documento reúne entregas profissionais informadas por Lucas Faraco. Não disponibiliza bases, código ou documentos internos das empresas.
+Meu interesse por dados e tecnologia cresceu a partir da necessidade de entender problemas e construir soluções. Estes casos descrevem entregas realizadas em contexto profissional, com foco na necessidade, na construção e na aplicação. Bases e código internos não são publicados aqui.
 
-## Rumo Brasil | Inteligência de mercado e parcerias
+## Informações dispersas para orientar a prospecção
 
-**Período:** fev/2026 a out/2026. Atuação como Líder de Parcerias até jul/2026 e, depois, Líder de Canais e Inteligência de Mercado.
+**Problema:** organizar informações do mercado de transporte rodoviário de cargas para apoiar segmentação e priorização de contas.
 
-### War Room Comercial
+**Construção:** desenvolvimento de um War Room Comercial, reunindo informações de **mais de 299 mil transportadoras**. Integração e tratamento de bases públicas e internas, incluindo ANTT e Receita Federal, com dados cadastrais, de frota e comerciais.
 
-**Necessidade:** organizar informações sobre o mercado de transporte rodoviário de cargas para apoiar a prospecção e a priorização de contas.
+**Aplicação:** identificação de oportunidades e apoio às prioridades de prospecção B2B e das equipes de Inside Sales e SDR.
 
-**Entrega:** desenvolvimento do War Room Comercial, reunindo informações de mais de **299 mil transportadoras**. Integração e tratamento de bases públicas e internas, incluindo dados da ANTT e Receita Federal, com informações cadastrais, de frota e comerciais.
+**Prática técnica:** manutenção de soluções analíticas com PostgreSQL, rotinas de ETL em Python e dashboards em Power BI.
 
-**Aplicação:** segmentação de mercado, identificação de oportunidades e apoio às prioridades de Inside Sales e SDR.
+O volume se refere ao universo de informações reunidas.
 
-**Prática técnica informada:** manutenção de soluções analíticas com PostgreSQL, rotinas de ETL em Python e dashboards em Power BI.
+## Visibilidade sobre parceiros e canais
 
-O volume descreve o universo de informações reunidas. Não representa clientes adquiridos nem resultado financeiro.
+**Problema:** estruturar o acompanhamento de performance para que os resultados fossem mais claros para a operação e a liderança.
 
-### BI para parcerias
+**Construção:** desenvolvimento de BI e automação de relatórios, com ampliação do acompanhamento de **6 para 23 métricas**. Definição e padronização de KPIs, organização e tratamento de dados e apresentação de análises.
 
-Desenvolvimento de soluções de BI e automação de relatórios, ampliando o acompanhamento de **6 para 23 métricas**. Definição e padronização de KPIs, organização e tratamento de dados e apresentações à liderança.
+**Aplicação:** acompanhamento de parceiros e canais, alinhamento entre indicadores e rotinas e apoio à revisão de processos. Essas entregas contribuíram para a formalização de uma área de Inteligência de Mercado.
 
-As entregas analíticas contribuíram para a formalização da área de Inteligência de Mercado. Não são atribuídos percentuais de ganho de produtividade ou receita sem medição informada.
+## Exploração de cenários
 
-### Simulador tributário
+**Problema:** facilitar a exploração de cenários tributários e apoiar conversas comerciais.
 
-Desenvolvimento de ferramenta com apoio de IA Generativa para exploração de cenários e apoio às conversas comerciais. O projeto é apresentado como uma entrega de análise de cenários, sem publicar lógica ou dados internos.
+**Construção:** desenvolvimento de um simulador tributário com apoio de IA Generativa.
 
-## Agência TBO | Product Owner - Marketing
+**Aplicação:** organização de cenários para apoiar a análise e a conversa de negócio. A apresentação pública preserva a lógica e os dados internos.
 
-**Período:** ago/2024 a out/2025.
+## Conexão entre marketing e vendas
 
-Consolidação de informações de CRM, mídia paga, tráfego e funil de conversão em lançamentos imobiliários. Padronização de KPIs e critérios de análise, inteligência de mercado e concorrência.
+**Problema:** conectar informações de diferentes canais e alinhar as prioridades das áreas envolvidas em lançamentos imobiliários.
 
-Tradução de necessidades de negócio em requisitos e backlog, com coordenação entre Branding, Render e Comercial para alinhar demandas, prazos e informações de performance.
+**Construção:** consolidação de informações de CRM, mídia paga, tráfego e funil de conversão; padronização de KPIs e critérios de análise; tradução de necessidades em requisitos e backlog.
 
-## Sem Parar Empresas | Gerente de Contas - Sul
+**Aplicação:** alinhamento entre Branding, Render e Comercial, conectando demandas, prazos e informações de performance às prioridades das entregas.
 
-**Período:** out/2022 a ago/2024.
+## O raciocínio em comum
 
-Gestão de carteira e vendas consultivas B2B, com uso diário do Salesforce para oportunidades e pipeline. Análise de conversão e evolução da carteira para orientar prospecção, relacionamento e ações comerciais.
+Em cada caso, o trabalho começa por entender o contexto e a decisão que precisa ser tomada. Depois vêm a organização das informações, a escolha das ferramentas e a construção de uma entrega que possa ser utilizada.
 
-## Ambev | Customer Service e execução comercial
-
-**Período:** jul/2021 a out/2022.
-
-Liderança de promotores e acompanhamento de sell-out, giro e market share. Posteriormente, gestão de Customer Service para redes de atacado do Paraná, Santa Catarina e Rio Grande do Sul.
-
-Acompanhamento de NPS, Fill Rate e ruptura; análise de ocorrências e apoio a planos de ação. Interface entre Logística, Comercial e Atendimento, com uso de Excel e Power BI.
-
-## Novo Nordisk | Trade Marketing
-
-**Período:** jul/2019 a abr/2021.
-
-Organização, tratamento e cruzamento de informações de sell-in, sell-out e market share. Relatórios e acompanhamento de séries históricas para identificar tendências e apoiar o planejamento comercial.
-
-## Forma de contribuição
-
-Minha experiência está em conectar a pergunta de negócio aos dados e à decisão: compreender a operação, organizar informações, definir indicadores e comunicar recomendações a quem executa e a quem decide.
+Os casos refletem responsabilidades e entregas informadas pelo autor. Resultados financeiros e ganhos percentuais não foram quantificados nesta apresentação.
