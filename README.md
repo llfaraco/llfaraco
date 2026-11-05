@@ -1,72 +1,84 @@
 # Lucas Faraco
 
-**Análise de Dados · Business Intelligence · Business Analytics · IA aplicada**
+**Crio soluções para problemas de negócio com dados, tecnologia e IA.**
 
-Conecto dados, contexto de negócio e automação para apoiar decisões comerciais e operacionais. Estou cursando Ciência de Dados e construo minha trajetória técnica a partir de problemas que conheço na prática: desempenho comercial, aquisição e retenção de clientes, marketing e nível de serviço.
+Gosto de entender o que está dificultando a vida de alguém e construir uma forma de resolver. Foi assim que me aproximei de indicadores, análise de dados, automação e desenvolvimento de produtos: a partir de perguntas e problemas que apareciam na prática.
 
-Minha experiência passa por **Rumo Brasil, Agência TBO, Sem Parar Empresas, Ambev e Novo Nordisk**, com atuação em liderança de equipes, indicadores, inteligência de mercado e colaboração entre áreas.
+Desde 2019, minha trajetória envolve informações de mercado, vendas e operações. Trabalhar com diferentes áreas me ensinou a investigar o contexto, ouvir quem executa e transformar uma necessidade em algo que possa ser analisado, construído e utilizado.
 
-[LinkedIn](https://www.linkedin.com/in/lucasrfaraco) · [E-mail](mailto:lucas.rfaraco@gmail.com) · [Yardline](https://yardlinefantasyfootball.com)
+Hoje, curso Ciência de Dados e aprofundo minha prática com SQL, Python, Power BI e inteligência artificial. Esse aprendizado amplia minha capacidade de criar: reunir informações dispersas, automatizar uma rotina, tornar uma decisão mais clara ou desenvolver um produto a partir de uma dor que conheço de perto.
 
-## Projeto em destaque: Yardline
+[LinkedIn](https://www.linkedin.com/in/lucasrfaraco) · [Contato](mailto:lucas.rfaraco@gmail.com) · [Conheça a Yardline](https://yardlinefantasyfootball.com)
 
-Sou o criador e responsável pelo produto **Yardline**, uma plataforma brasileira de inteligência para Fantasy Football.
+## O que orienta meu trabalho
 
-**O problema:** quem joga precisa reunir informações dispersas e interpretar recomendações diante das regras específicas da própria liga. A oferta de conteúdo e ferramentas em português também é limitada.
+**Começar pelo problema.** Entender quem enfrenta a dificuldade, o que precisa decidir e como resolve isso hoje.
 
-**A proposta:** reunir análise e ferramentas de apoio à decisão em uma experiência em português, com integração ao Sleeper e atenção ao contexto da liga. O produto contempla Start/Sit, análise de trocas, waivers e rankings.
+**Conectar negócio e construção.** Traduzir o contexto em perguntas, indicadores, regras de negócio e prioridades para uma solução.
 
-**Meu papel:** concepção do produto, definição de problemas e prioridades, regras de negócio, avaliação da experiência e validação das entregas. O desenvolvimento utiliza apoio de IA; as decisões de produto e a avaliação do que faz sentido para o usuário fazem parte do meu trabalho.
+**Criar algo útil.** Escolher ferramentas de acordo com a necessidade e avaliar se o resultado ajuda quem vai utilizá-lo.
 
-O código permanece em **repositório privado**. A apresentação pública descreve o produto sem divulgar código, configurações ou dados de usuários.
+**Assumir responsabilidade pela entrega.** Questionar resultados, conferir informações e revisar o que precisa melhorar. Uso IA para apoiar programação, análise e automação, com atenção à validação.
 
-[Conheça o produto](https://yardlinefantasyfootball.com) · [Leia o estudo de caso](docs/yardline.md)
+**Aprender construindo.** Desenvolvo minha prática técnica em projetos, estudos e problemas concretos. Documentar o que aprendo também faz parte desse processo.
 
-## Entregas profissionais
+## Yardline | Uma dor que virou produto
 
-| Contexto | Entrega | Aplicação |
-| --- | --- | --- |
-| Inteligência de mercado na Rumo Brasil | War Room Comercial com informações de **mais de 299 mil transportadoras**, integrando bases públicas e internas | Segmentação de mercado, identificação de oportunidades e priorização de contas |
-| Gestão de parcerias na Rumo Brasil | BI e automação de relatórios, ampliando o acompanhamento de **6 para 23 métricas** | Visibilidade sobre desempenho de parceiros e canais |
-| Análise de cenários na Rumo Brasil | Simulador tributário desenvolvido com apoio de IA Generativa | Exploração de cenários e apoio às conversas comerciais |
-| Product Owner na Agência TBO | Consolidação de informações de CRM, mídia e funil; padronização de KPIs e priorização de backlog | Alinhamento entre Marketing, Branding, Render e Comercial |
+Como jogador de Fantasy Football, conheci de perto a dificuldade de reunir informações e avaliar decisões diante das regras específicas de uma liga. Desse contexto nasceu a **Yardline**, uma plataforma brasileira de inteligência para Fantasy Football.
 
-[Contexto das entregas profissionais](docs/experiencia-profissional.md)
+A proposta é reunir ferramentas e contexto em uma experiência em português: Start/Sit, análise de trocas, waivers e rankings, com integração ao Sleeper.
 
-## Portfólio de estudos
+Sou o criador e responsável pela direção do produto. Meu trabalho envolve identificar necessidades, definir prioridades e regras de negócio, orientar o desenvolvimento com apoio de IA e avaliar as entregas pela experiência de quem usa.
 
-Estes repositórios documentam meu desenvolvimento técnico. Os estágios e as limitações estão descritos em cada README; resultados de simulações não representam impacto obtido em empresas.
+A Yardline reúne interesses que fazem parte da minha trajetória: esporte, análise, tecnologia e criação de soluções. O código é privado; o produto e seu estudo de caso estão disponíveis para conhecer a proposta e meu papel no projeto.
 
-| Projeto | Foco | Estágio documentado |
-| --- | --- | --- |
-| [Churn: análise exploratória](https://github.com/llfaraco/churn-analysis-python) | Python, pandas e visualização para investigar cancelamentos | Notebook, CSV e imagens disponíveis; reprodução a validar |
-| [Churn: modelo didático](https://github.com/llfaraco/Data_Analytics_Portfolio_Projetos) | Regressão logística com dados sintéticos e recomendações para CX | Script de simulação e consulta SQL conceitual |
-| [Vacinação global](https://github.com/llfaraco/global-vaccination-analytics-pipeline) | Tratamento de dados, média móvel e modelagem dimensional | Script Python e modelo SQL; carga no banco não automatizada |
-| [Sales Analytics](https://github.com/llfaraco/bi-end-to-end-sales-analytics) | Modelagem de vendas, SQL e medidas DAX | Base e scripts disponíveis; dashboard Power BI pendente |
-| [SQL Hero Strategy](https://github.com/llfaraco/sql-hero-strategy) | Agregações, filtros e priorização em cenário fictício | Exercício SQL |
-| [ARES Performance](https://github.com/llfaraco/ares-performance) | Aplicação web de registro de treinos e métricas | Projeto com React, Vite e integração Supabase; validação funcional pendente |
+[Visitar a Yardline](https://yardlinefantasyfootball.com) · [Estudo de caso](docs/yardline.md)
 
-[Guia do portfólio e critérios de leitura](docs/portfolio.md)
+## Outros problemas que já trabalhei
 
-## Conhecimentos e forma de trabalhar
+| Problema | Solução desenvolvida |
+| --- | --- |
+| Informações de mercado dispersas para orientar a prospecção | War Room Comercial com informações de **mais de 299 mil transportadoras**, integrando bases públicas e internas |
+| Pouca visibilidade sobre o desempenho de parceiros e canais | BI e automação de relatórios, ampliando o acompanhamento de **6 para 23 métricas** |
+| Necessidade de explorar cenários para apoiar conversas comerciais | Simulador tributário desenvolvido com apoio de IA Generativa |
+| Dificuldade de conectar informações e prioridades de marketing e vendas | Consolidação de dados de CRM, mídia e funil, padronização de KPIs e organização de requisitos e backlog |
 
-- **BI:** Power BI e Excel intermediários; Power Query, DAX, painéis e relatórios gerenciais.
-- **Dados:** SQL básico/intermediário, PostgreSQL e Python iniciante/intermediário; integração e tratamento de bases e rotinas de ETL.
-- **Desenvolvimento contínuo:** modelagem de dados, Git/GitHub e projetos de análise e automação.
-- **Negócio:** indicadores, funil de conversão, segmentação de mercado, performance comercial e nível de serviço.
-- **Colaboração:** liderança de equipes, levantamento de necessidades, requisitos, backlog e comunicação de resultados.
-- **IA aplicada:** apoio à programação, análise e automação, com atenção à validação dos resultados e às regras de negócio.
+[Leia os casos e o raciocínio por trás das entregas](docs/experiencia-profissional.md)
 
-## Formação e oportunidades
+## Projetos para aprender e explorar
 
-**Tecnólogo em Ciência de Dados — Universidade Cruzeiro do Sul | Em andamento**
+Uso o portfólio para desenvolver ferramentas, testar abordagens e praticar a passagem de uma pergunta para uma análise. Cada repositório descreve o material disponível, seu estágio e suas limitações.
 
-Busco oportunidades em **Análise de Dados, BI, Business Analytics e Inteligência de Mercado**, com espaço para automação e IA aplicada a negócios. Estou em Curitiba e tenho disponibilidade para início imediato.
+| Projeto | Pergunta ou proposta |
+| --- | --- |
+| [Churn: análise exploratória](https://github.com/llfaraco/churn-analysis-python) | Como investigar padrões de cancelamento com Python e visualização? |
+| [Churn: modelo didático](https://github.com/llfaraco/Data_Analytics_Portfolio_Projetos) | Como organizar sinais de risco em uma simulação para apoiar perguntas de retenção? |
+| [Vacinação global](https://github.com/llfaraco/global-vaccination-analytics-pipeline) | Como tratar registros temporais e organizar dados para análise? |
+| [Sales Analytics](https://github.com/llfaraco/bi-end-to-end-sales-analytics) | Como estruturar uma base de vendas e seus indicadores? |
+| [SQL Hero Strategy](https://github.com/llfaraco/sql-hero-strategy) | Como usar agregações e filtros para orientar uma priorização? |
+| [ARES Performance](https://github.com/llfaraco/ares-performance) | Como reunir registros de treino e métricas em uma aplicação web? |
 
-## English overview
+[Guia dos projetos e estágio das implementações](docs/portfolio.md)
 
-I work at the intersection of data analysis, business intelligence and business operations. My background includes team leadership, market intelligence, commercial performance and cross-functional collaboration. I am studying Data Science and developing my technical skills through practical projects.
+## Ferramentas que venho desenvolvendo na prática
 
-I created **Yardline**, a Brazilian Fantasy Football platform, and lead its product direction, requirements and delivery validation, using AI-assisted development. Its source code is private; the public case study focuses on the problem, product and my responsibilities.
+- **Power BI e Excel:** nível intermediário; Power Query, DAX, dashboards e relatórios.
+- **SQL:** básico/intermediário, com PostgreSQL em soluções analíticas.
+- **Python:** iniciante/intermediário; tratamento de dados, rotinas de ETL e automação.
+- **Dados:** integração de bases e estudos de modelagem e análise.
+- **Desenvolvimento:** Git/GitHub e IA Generativa como apoio à construção e à revisão.
+- **Negócio e produto:** indicadores, levantamento de necessidades, regras de negócio, priorização e comunicação entre áreas.
 
-[LinkedIn](https://www.linkedin.com/in/lucasrfaraco) · [Contact](mailto:lucas.rfaraco@gmail.com)
+**Formação:** Tecnólogo em Ciência de Dados, Universidade Cruzeiro do Sul, em andamento.
+
+## Vamos conversar
+
+Tenho interesse em oportunidades e projetos em **Dados, BI, Analytics, Inteligência de Mercado e automação com IA**. Posso contribuir com a experiência de quem conhece a operação, gosta de investigar e se envolve na construção da solução.
+
+[LinkedIn](https://www.linkedin.com/in/lucasrfaraco) · [E-mail](mailto:lucas.rfaraco@gmail.com)
+
+### English overview
+
+I build solutions to business problems using data, technology and AI. Since 2019, my work has involved market, sales and operational information. I am studying Data Science and developing my technical skills through practical projects.
+
+I created **Yardline**, a Brazilian Fantasy Football platform, and lead its product direction, requirements and delivery validation through AI-assisted development.
