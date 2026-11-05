@@ -1,34 +1,41 @@
-# Guia do portfólio
+# Guia do portfólio e evidências
 
-[Voltar ao perfil](../README.md)
+[Voltar ao perfil](../README.md) · [Decisões e aprendizado](decisoes-e-aprendizado.md)
 
-## Como ler os projetos
+## Projeto principal
 
-O portfólio reúne entregas profissionais descritas sem material interno, um produto com código privado e exercícios públicos de desenvolvimento técnico.
+[Sales Analytics](https://github.com/llfaraco/bi-end-to-end-sales-analytics) reúne um fluxo completo de CSV, validação em Python, modelo dimensional SQLite, consultas, indicadores e dashboard HTML com filtros. A integração com Power BI tem M, DAX e instruções; não há `.pbix` gerado neste ambiente.
 
-| Categoria | Evidência | Limite |
+## Validação local em 05/11/2026
+
+| Projeto | Evidência disponível | Verificação local |
 | --- | --- | --- |
-| [Casos de aplicação](experiencia-profissional.md) | Contexto, entregas e responsabilidades informados pelo autor | Sem bases ou código de empresas |
-| [Yardline](yardline.md) | Produto público e estudo de caso de produto | Código privado; sem métricas de impacto declaradas |
-| Projetos públicos de estudo | Arquivos, scripts, consultas e notebooks versionados | Simulações e exercícios não equivalem a experiência em produção |
+| Sales Analytics | Dashboard, CSV mensal e relatório de hashes, totais e duração | 10 mil vendas processadas; 6 testes Python e verificação de filtros em Node |
+| Churn exploratório | Resumo, gráficos, CSV por canal e notebook com saídas | 20 registros; 4 testes; 2 células executadas sequencialmente em Python |
+| Churn preditivo | Métricas, baseline, coeficientes e scores de holdout | 500 registros sintéticos; 400 treino / 100 teste; 3 testes |
+| Vacinação | Pipeline com janela temporal e carga dimensional SQLite | 4 testes com fixture; base original não executada localmente |
+| Tom Brady | Resumo histórico com fonte e proporções calculadas | Script executado; 3 testes |
+| SQL Hero Strategy | Consulta com nome corrigido e resultado verificado | 1 teste com SQLite em memória |
+| ARES Performance | Aplicação React/Vite e integração Supabase | Build e fluxos não validados nesta revisão |
 
-## Situação observada nos arquivos
+Foram aprovados **21 testes Python**, além da verificação de totais e filtros do dashboard em Node. [Registro da execução local](validation.json).
 
-- **Sales Analytics:** há CSVs, definição de tabelas SQLite e medidas DAX. Não há arquivo de dashboard Power BI; a dimensão de clientes prevista no SQL não tem CSV correspondente.
-- **Vacinação global:** o Python trata um CSV e exporta outro. A modelagem SQL é separada; o script não carrega automaticamente as tabelas.
-- **Churn exploratório:** há notebook, base e imagens. O notebook não contém saídas executadas e a formatação das células precisa ser validada para reprodução.
-- **Churn preditivo:** o Python gera 500 clientes sintéticos e treina regressão logística. A consulta SQL é conceitual e não alimenta automaticamente o script.
-- **SQL Hero Strategy:** exercício de agregação com dados fictícios. O arquivo de consulta tem um ponto adicional no nome, documentado no README.
-- **Tom Brady:** exercício com dados definidos manualmente. Listas de tamanhos diferentes impedem a criação do DataFrame; a execução precisa ser corrigida antes de apresentar resultados.
-- **ARES Performance:** aplicação React/Vite com integração Supabase e registros de treino e métricas. Build, autenticação e persistência não foram validados nesta revisão.
-- **Python para Não Programadores:** material de curso do LinkedIn Learning; autoria original preservada.
+Os workflows acrescentados aos seis projetos executam verificações a cada push e pull request. As primeiras execuções remotas ficaram bloqueadas antes de iniciar os passos. A validação comprovada nesta revisão é local; não se declara aprovação no GitHub Actions. Os workflows ficam disponíveis para execução quando o impedimento da conta for resolvido.
 
-Esta revisão verificou estrutura e conteúdo dos arquivos. Não equivale à execução dos projetos ou à validação dos resultados analíticos.
+## Produto com código privado
 
-## Critério de apresentação
+[Yardline](yardline.md): estudo de caso, [prévias públicas e roteiro de demonstração](yardline-demonstracao.md) e [visão conceitual das responsabilidades técnicas](yardline-visao-tecnica.md). A página pública foi observada; fluxos autenticados e acurácia das recomendações não foram testados nesta revisão.
 
-Descrever o problema, mostrar o que está no repositório, informar como reproduzir e registrar limitações. Planos futuros não são apresentados como implementações concluídas.
+## Casos de negócio
 
-## Contato
+[Casos de aplicação](experiencia-profissional.md) descrevem problemas, entregas e responsabilidades informados pelo autor. Não incluem bases ou código internos de empresas.
+
+## Como interpretar os resultados
+
+- Bases de estudo e simulações não equivalem a impacto obtido em empresas.
+- O alvo sintético do modelo de churn é construído por regra; a avaliação não comprova previsão de churn real.
+- Tempo de execução é medido em uma máquina, sem constituir benchmark de desempenho.
+- O material de curso Python para Não Programadores preserva a autoria original e é apresentado como estudo.
+- A evolução do código, dos testes e da documentação foi implementada com assistência de IA, e está aberta à inspeção pelos arquivos e comandos de reprodução.
 
 [LinkedIn](https://www.linkedin.com/in/lucasrfaraco) · [E-mail](mailto:lucas.rfaraco@gmail.com)

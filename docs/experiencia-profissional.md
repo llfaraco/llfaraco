@@ -45,3 +45,4 @@ O volume se refere ao universo de informações reunidas.
 Em cada caso, o trabalho começa por entender o contexto e a decisão que precisa ser tomada. Depois vêm a organização das informações, a escolha das ferramentas e a construção de uma entrega que possa ser utilizada.
 
 Os casos refletem responsabilidades e entregas informadas pelo autor. Resultados financeiros e ganhos percentuais não foram quantificados nesta apresentação.
+

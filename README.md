@@ -32,7 +32,15 @@ Sou o criador e responsável pela direção do produto. Meu trabalho envolve ide
 
 A Yardline reúne interesses que fazem parte da minha trajetória: esporte, análise, tecnologia e criação de soluções. O código é privado; o produto e seu estudo de caso estão disponíveis para conhecer a proposta e meu papel no projeto.
 
-[Visitar a Yardline](https://yardlinefantasyfootball.com) · [Estudo de caso](docs/yardline.md)
+[Visitar a Yardline](https://yardlinefantasyfootball.com) · [Estudo de caso](docs/yardline.md) · [Demonstração guiada](docs/yardline-demonstracao.md)
+
+## Projeto principal de dados: Sales Analytics
+
+Um fluxo reproduzível de **CSV → validação em Python → SQLite → indicadores → dashboard HTML**, com integração documentada para Power BI.
+
+A execução local processou **10 mil transações**, reconciliou **894.347,71 UM de receita** e identificou **1.000 clientes distintos** na base de estudo. Os testes cobrem dados inválidos, reexecução, totais e filtros. As métricas descrevem o exercício, sem atribuição a uma empresa real.
+
+[Explorar o projeto](https://github.com/llfaraco/bi-end-to-end-sales-analytics) · [Resultados medidos](https://github.com/llfaraco/bi-end-to-end-sales-analytics/blob/main/artifacts/validation.json) · [Decisões técnicas](https://github.com/llfaraco/bi-end-to-end-sales-analytics/blob/main/docs/DECISIONS.md)
 
 ## Outros problemas que já trabalhei
 
@@ -58,7 +66,7 @@ Uso o portfólio para desenvolver ferramentas, testar abordagens e praticar a pa
 | [SQL Hero Strategy](https://github.com/llfaraco/sql-hero-strategy) | Como usar agregações e filtros para orientar uma priorização? |
 | [ARES Performance](https://github.com/llfaraco/ares-performance) | Como reunir registros de treino e métricas em uma aplicação web? |
 
-[Guia dos projetos e estágio das implementações](docs/portfolio.md)
+[Guia dos projetos e estágio das implementações](docs/portfolio.md) · [Decisões técnicas e aprendizado](docs/decisoes-e-aprendizado.md)
 
 ## Ferramentas que venho desenvolvendo na prática
 
@@ -82,3 +90,4 @@ Tenho interesse em oportunidades e projetos em **Dados, BI, Analytics, Inteligê
 I build solutions to business problems using data, technology and AI. Since 2019, my work has involved market, sales and operational information. I am studying Data Science and developing my technical skills through practical projects.
 
 I created **Yardline**, a Brazilian Fantasy Football platform, and lead its product direction, requirements and delivery validation through AI-assisted development.
+

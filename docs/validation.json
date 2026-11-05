@@ -1,0 +1,57 @@
+{
+  "checked_at": "2026-11-05",
+  "scope": "Execução local; resultados de CI verificados separadamente.",
+  "repositories": [
+    {
+      "repository": "bi-end-to-end-sales-analytics",
+      "exit_code": 0,
+      "test_count": 6,
+      "duration_seconds": 0.344,
+      "command": "python -m unittest discover -s tests -v"
+    },
+    {
+      "repository": "churn-analysis-python",
+      "exit_code": 0,
+      "test_count": 4,
+      "duration_seconds": 3.305,
+      "command": "python -m unittest discover -s tests -v"
+    },
+    {
+      "repository": "Data_Analytics_Portfolio_Projetos",
+      "exit_code": 0,
+      "test_count": 3,
+      "duration_seconds": 9.291,
+      "command": "python -m unittest discover -s tests -v"
+    },
+    {
+      "repository": "global-vaccination-analytics-pipeline",
+      "exit_code": 0,
+      "test_count": 4,
+      "duration_seconds": 1.156,
+      "command": "python -m unittest discover -s tests -v"
+    },
+    {
+      "repository": "analise-tom-brady-nfl",
+      "exit_code": 0,
+      "test_count": 3,
+      "duration_seconds": 0.136,
+      "command": "python -m unittest discover -s tests -v"
+    },
+    {
+      "repository": "sql-hero-strategy",
+      "exit_code": 0,
+      "test_count": 1,
+      "duration_seconds": 0.957,
+      "command": "python -m unittest discover -s tests -v"
+    }
+  ],
+  "python_unit_tests": 21,
+  "dashboard_node_check": "passed",
+  "vaccination_full_dataset": "not_run_locally; connector did not deliver original CSV",
+  "power_bi_desktop": "not_run; M and DAX provided",
+  "yardline_authenticated_flows": "not_run; public page and previews observed",
+  "github_actions": {
+    "status": "blocked_before_execution",
+    "details": "O GitHub não iniciou os jobs. Workflows configurados, sem aprovação remota declarada."
+  }
+}

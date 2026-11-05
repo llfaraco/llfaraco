@@ -8,6 +8,12 @@ Uma decisão de Fantasy Football envolve mais do que comparar nomes: regras de p
 
 A Yardline nasceu para reunir essas necessidades em um produto: informação, contexto e ferramentas de apoio à decisão.
 
+## Demonstração e visão técnica
+
+[Ver prévias públicas e roteiro de 90 segundos](yardline-demonstracao.md) · [Entender as responsabilidades técnicas](yardline-visao-tecnica.md)
+
+A página pública foi observada em 05/11/2026. Os fluxos autenticados não foram executados nesta revisão.
+
 ## Produto
 
 O projeto é uma plataforma brasileira voltada a Fantasy Football, com integração ao Sleeper. As funcionalidades apresentadas pelo criador incluem:
@@ -57,3 +63,4 @@ O código permanece em repositório privado. Este estudo de caso não contém c�
 - Contexto e responsabilidades: informações fornecidas por Lucas Faraco.
 - Não são declarados números de usuários, receita, retenção ou acurácia.
 - A evolução planejada está separada das funcionalidades descritas.
+
